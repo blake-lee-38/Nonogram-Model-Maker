@@ -1,14 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/0fRJ29ba)
 # Project 4: A Simple Nonogram Maker
 
+>
 > There are two ways of constructing a software design: One way is to make it
 > so simple that there are obviously no deficiencies, and the other way is to
 > make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
 >
-> &mdash;C.A.R. Hoare (British computer scientist, winner of the 1980 Turing Award)
-
-[Nonograms](https://en.wikipedia.org/wiki/Nonogram) are grid-based logic puzzles invented independently by Non Ishida and Tetsuya Nishio in 1987.
-Over the past decade, they've become increasingly popular in video game form, where they are more commonly known by Nintendo's trademarked name, "Picross" (a portmanteau of "picture" and "crossword").
 
 A nonogram consists of a grid of cells in which each row and each column are labeled by a list of numbers.
 The cells can be in two states, empty or filled, and the numbers indicate which cells are filled.
@@ -32,11 +28,7 @@ For Project 4, we will write a nonogram puzzle maker.
 The program will have a graphical interface that allows a user to draw a binary image.
 The program will take this image and calculate the row and column numbers of the corresponding nonogram.
 
-## Installing JavaFX
 
-The graphical interface of the nonogram maker will be created with [JavaFX](https://en.wikipedia.org/wiki/JavaFX).
-To use the library, we need to download and manually add it to the build path.
-See the document [javafx.md](javafx.md) for instructions on how to do this.
 
 ## User Interface Description
 
