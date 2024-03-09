@@ -9,9 +9,6 @@
 >
 
 ![UML Diagram](img/uml.svg)
-For Project 4, we will write a nonogram puzzle maker.
-The program will have a graphical interface that allows a user to draw a binary image.
-The program will take this image and calculate the row and column numbers of the corresponding nonogram.
 
 A nonogram consists of a grid of cells in which each row and each column are labeled by a list of numbers.
 The cells can be in two states, empty or filled, and the numbers indicate which cells are filled.
